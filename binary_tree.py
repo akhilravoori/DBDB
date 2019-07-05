@@ -33,4 +33,4 @@ class BinaryNode(object):
         self.value_ref.store(storage)
         self.left_ref.store(storage)
         self.right_ref.store(storage)
-c
+
